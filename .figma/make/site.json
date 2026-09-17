@@ -1,0 +1,10 @@
+{
+  "description": "Create precise, pixel-perfect replicas of any design for developers and designers, streamlining the web development process and enhancing collaboration.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
